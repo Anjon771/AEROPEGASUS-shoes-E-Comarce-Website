@@ -1,0 +1,8 @@
+{
+  "name": "Product Card Shop",
+  "description": "Full-featured athletic footwear e-commerce store with interactive product catalog, size/color selectors, live shopping cart, checkout, order tracking, wishlist, and customer reviews.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
